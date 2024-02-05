@@ -1,8 +1,0 @@
-requests
-lxml
-cssselect
-DownloadKit>=2.0.0
-websocket-client
-click
-tldextract
-psutil

@@ -1,0 +1,25 @@
+[project]
+name = "drission-page"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "linjie", email = "linjie@moseeker.com"},
+]
+dependencies = [
+    "requests",
+    "lxml",
+    "cssselect",
+    "DownloadKit>=2.0.0",
+    "websocket-client",
+    "click",
+    "tldextract",
+    "psutil",
+]
+requires-python = ">=3.12"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+

@@ -1,4 +1,0 @@
-include DrissionPage/configs/configs.ini
-include DrissionPage/*.pyi
-include DrissionPage/*/*.py
-include DrissionPage/*/*.pyi
